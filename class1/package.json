@@ -2,7 +2,6 @@
   "name": "namastereact",
   "version": "1.0.0",
   "description": "learn react",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -18,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/ShivaStrom/Learn-REACT/issues"
   },
-  "homepage": "https://github.com/ShivaStrom/Learn-REACT#readme"
+  "homepage": "https://github.com/ShivaStrom/Learn-REACT#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
 }
